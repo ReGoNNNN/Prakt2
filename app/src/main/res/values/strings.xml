@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prakt2</string>
+    <string name="Hello_world">Prakt2</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
